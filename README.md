@@ -2,7 +2,9 @@
 一些日志
 vimrc是自己vim的配置文件 ， 建议使用gvim
 
-  sudo pacman -R vim
-  #避免冲突可能需要删除vim
-  sudo pacman -S gvim
-  #gvim可以使用 + 粘贴板
+```cpp
+sudo pacman -R vim
+#避免冲突可能需要删除vim
+sudo pacman -S gvim
+#gvim可以使用 + 粘贴板
+```
