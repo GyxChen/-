@@ -1,0 +1,1 @@
+/home/gyxchen/.config/nvim/init.vim
